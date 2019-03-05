@@ -20,8 +20,8 @@ def while_iterator(number_of_times)
   puts "Welcome to Flatiron School's Web Development Course!"
   loop += 1 
   phrase = "Welcome to Flatiron School's Web Development Course!"
+  end
 end
-
 
 def until_iterator(number_of_times)
   loop = 0 
@@ -29,7 +29,7 @@ def until_iterator(number_of_times)
   puts "Welcome to Flatiron School's Web Development Course!"
   loop += 1
   phrase = "Welcome to Flatiron School's Web Development Course!"
-end
+  end
 end
 
 def for_iterator(number_of_times)
@@ -37,7 +37,5 @@ for loop in 1.. 7 do
   puts "Welcome to Flatiron School's Web Development Course!"
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
-end
-  
-end
+  end
 end
