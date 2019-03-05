@@ -3,6 +3,8 @@
 def loop_iterator(number_of_times)
   loop = 0 
   7.times do 
+    puts "Welcome to Flatiron School's Web Development Course!"
+    
 
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
