@@ -5,6 +5,7 @@ def loop_iterator(number_of_times)
   7.times do 
     puts "Welcome to Flatiron School's Web Development Course!"
   end
+  do
     while loop < 7
     puts "Welcome to Flatiron School's Web Development Course!"
     loop +=1
