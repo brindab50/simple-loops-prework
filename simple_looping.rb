@@ -4,10 +4,11 @@ def loop_iterator(number_of_times)
   loop = 0 
   7.times do 
     puts "Welcome to Flatiron School's Web Development Course!"
+  end
     while loop < 7
     puts "Welcome to Flatiron School's Web Development Course!"
     loop +=1
-  end
+  
 end
 
   # Code your solution here using the "loop" keyword to puts out the below phrase
